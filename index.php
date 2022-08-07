@@ -3,4 +3,4 @@ $database=mysql_connect ('localhost', 'root', '') or die("Вы не подклю
 echo "Мы тестируем Git";
 ?>
 Добавление строки
-Удалили
+Удалили рдлрдлрдр
